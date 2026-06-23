@@ -1,6 +1,6 @@
 # MentorClass
 
-MentorClas is an innovative platform designed to connect students with experienced mentors for personalized learning experiences.
+MentorClass is an innovative platform designed to connect students with experienced mentors for personalized learning experiences.
 
 ## Getting Started
 
